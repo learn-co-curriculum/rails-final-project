@@ -19,6 +19,7 @@ This project can be anything you want! Like always, try to build something that 
 * Build an API with best practices (namespacing, versioning, complex jbuilder rendering, etc) and maybe for your next iteration, you can serve as JSON to a JavaScript app
 * Work with external API(s) to build something interesting. Get good at making efficient API calls with either a wrapper gem for that API or the Typhoeus gem and well thought out Object Oriented code
 * Build a complex domain model with nested forms
+* You can think of this project as the first iteration and after learning JavaScript, you can build on it again
 
 ## Timeframe
 
