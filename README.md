@@ -22,7 +22,7 @@ This project can be anything you want! Like always, try to build something that 
 
 ## Timeframe
 
-This project should take 12-15 hours to complete. 
+This project should take the weekend to complete. 
 
 ## Deployment
 
