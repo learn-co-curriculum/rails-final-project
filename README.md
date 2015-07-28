@@ -1,8 +1,3 @@
----
-tags: rails, final project
-language: ruby
----
-
 # Rails Final Project
 
 By now, you know how to build sophisticated full web applications in Rails. Next, you're going to build your own Rails app from scratch.
