@@ -32,3 +32,5 @@ Deploy your app when you're done! If it uses a database, be sure to convert it t
 ## Bonus
 
 Spec it out!
+
+<a href='https://learn.co/lessons/rails-final-project' data-visibility='hidden'>View this lesson on Learn.co</a>
