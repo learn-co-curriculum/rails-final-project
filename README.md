@@ -33,4 +33,4 @@ Deploy your app when you're done! If it uses a database, be sure to convert it t
 
 Spec it out!
 
-<a href='https://learn.co/lessons/rails-final-project' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-final-project' title='Rails Final Project'>Rails Final Project</a> on Learn.co and start learning to code for free.</p>
